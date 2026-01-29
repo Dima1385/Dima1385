@@ -1,7 +1,7 @@
 <h1 align="center">👋 Привіт</h1>
 
 <p align="center">  
-  💻 <b>Fullstack Developer</b> • 🌍 <i>Захоплююсь новими технологіями</i> • 🚀 <b>Зараз вивчаю Solidity та Go</b>  
+  💻 <b>Fullstack Developer</b> • 🌍 <i>Захоплююсь новими технологіями</i>
 </p>
 
 ---
