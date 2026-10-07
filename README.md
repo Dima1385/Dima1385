@@ -112,13 +112,10 @@
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" />
   <img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion_AI-000000?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/PgAdmin_4-008BB9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bober_DB-FF6F00?style=flat-square" />
 </p>
 
 <br/>
