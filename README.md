@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -53,19 +52,16 @@
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-Pipelines-7C5CFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vector_DB-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
 </p>
 
 ### ☁️ DevOps & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
@@ -91,7 +87,6 @@
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white" />
   <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
@@ -108,26 +103,6 @@
   <img src="https://img.shields.io/badge/PgAdmin_4-008BB9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bober_DB-FF6F00?style=for-the-badge" />
 </p>
-
-<br/>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dima1385&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dima1385&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Dima1385&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dima1385&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" />
-
-</div>
 
 <br/>
 
